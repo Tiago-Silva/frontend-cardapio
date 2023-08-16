@@ -1,6 +1,10 @@
 # Cardápio Digital - Aplicação Frontend
 Crud simples de um cardápio digital com React, Typescript e React Query.
 
+<h1 align="center">
+    <img src="./public/home.png" width="300"/>
+</h1>
+
 ## 💻 Requisitos
 
 Antes de iniciar, você deve ter o Node.js e o NPM instalados em sua máquina.
